@@ -1,0 +1,2 @@
+# qbt-theme
+Theme-DARK
